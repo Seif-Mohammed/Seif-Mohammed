@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Embedded Systems Developer** with a strong interest in microcontroller driver development, robotics, and applying image processing techniques to real-world problems. I enjoy building efficient and reliable embedded solutions that bridge the gap between hardware and software.
+I'm a passionate **Software Developer** with a strong interest in microcontroller driver development, robotics, and applying image processing techniques to real-world problems. I enjoy building efficient and reliable embedded solutions that bridge the gap between hardware and software.
 
 ## 🔧 Technologies & Tools
 
