@@ -1,75 +1,117 @@
-<!-- Optional: Add a Banner Image -->
-<!-- You can create a custom banner reflecting your interests (e.g., embedded systems, robotics) -->
-<!-- Upload it to this repository and uncomment the line below -->
-<!-- <p align="center"> -->
-<!--  <img src="./your-banner-image.png" alt="Banner Image" width="800"/> -->
-<!-- </p> -->
+# Hi there, I'm Seif Mohammed! 👋
 
-<!-- Animated Greeting -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=800&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Seif+Mohamed!;Software+Embedded+Systems+Developer" alt="Typing SVG" />
-</h1>
+## 🚀 About Me
 
-<!-- Bio Section -->
-<p align="center">
-  I'm a passionate Software Embedded Systems Developer with a strong interest in microcontroller driver development, robotics, and applying image processing techniques to real-world problems. I enjoy building efficient and reliable embedded solutions.
-</p>
+I'm a passionate **Software Embedded Systems Developer** with a strong interest in microcontroller driver development, robotics, and applying image processing techniques to real-world problems. I enjoy building efficient and reliable embedded solutions that bridge the gap between hardware and software.
 
-<!-- Optional: What I'm Currently Working On/Learning -->
-<!-- Uncomment and edit this section if you like -->
-<!--
-- 🌱 I’m currently learning more about Real-Time Operating Systems (RTOS).
-- 👯 I’m looking to collaborate on open-source embedded projects.
-- 🤔 I’m looking for help with advanced ARM Cortex-M optimizations.
-- 💬 Ask me about AVR/ARM development, C/C++, or robotics!
-- 📫 How to reach me: seifmohamed606@gmail.com
--->
+## 🔧 Technologies & Tools
 
-<br/>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<!-- Skills Section -->
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,arduino,linux,git" alt="Languages & Tools" />
-  <br/>
-  <!-- Add specific hardware/MCUs if desired, e.g., avr, arm, stm32 -->
-  <!-- Example: <img src="https://skillicons.dev/icons?i=raspberrypi,embeddedc" alt="Hardware & Embedded" /> -->
-</p>
+### Microcontrollers & Embedded Systems
+- **AVR Family**: ATMEGA32
+- **ARM Cortex**: STM32F401CC
+- **Arduino Platform**
+- Driver Development & Hardware Abstraction
 
-<br/>
+### Specializations
+- 🤖 **Robotics**: Autonomous systems, sensor integration
+- 🔬 **Image Processing**: Computer vision, pattern recognition
+- ⚡ **Embedded Systems**: Real-time systems, low-level programming
+- 📡 **Communication Protocols**: UART, SPI, I2C, Bluetooth
+- 🐍 **Python Applications**: GUI development, engineering calculations
+- 🛰️ **Aerospace Systems**: CubeSat ground station development
 
-<!-- GitHub Stats (Optional) -->
-<!-- Replace {USERNAME} with your GitHub username: Seif-Mohammed -->
-<!-- Uncomment the sections you want to use -->
-<!-- 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seif-Mohammed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Mohammed&layout=compact&langs_count=8&theme=radical"/>
-</p>
--->
+## 🎯 Featured Projects
 
-<br/>
+### 🛰️ [CubeSat-Base-station-GUI](https://github.com/Seif-Mohammed/CubeSat-Base-staion-GUI)
+Comprehensive ground station GUI for CubeSat communication and control
+- **Purpose**: User-friendly interface for CubeSat operations and monitoring
+- **Technologies**: Python, PyQt6
+- **Applications**: Space communication, satellite ground control
+- **Features**: Real-time CubeSat communication and control platform
 
-<!-- Contact/Social Links -->
-<h2 align="center">🔗 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/seifmo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seifmohamed606@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <!-- Add other links like a personal website or portfolio if you have one -->
-</p>
+### ⚡ [Copper Busbar Calculator](https://github.com/Seif-Mohammed/copper-busbar-calculator)
+Professional engineering application for electrical busbar design calculations
+- **Functionality**: Calculate copper busbar bending dimensions with precision
+- **Technologies**: Python, PyQt6
+- **Features**: 
+  - Multiple shape support (L-Shape, U-Shape, Z-Shape)
+  - K-factor methodology for accurate bend allowances
+  - Professional results export and visual diagrams
+  - Secure authorization system
+- **Applications**: Electrical engineering, manufacturing, industrial design
 
-<br/>
+### 🚗 [BLUETOOTH-CONTROLLED-CAR-and-LINE-FOLLOWER-ROBOT](https://github.com/Seif-Mohammed/BLUETOOTH-CONTROLLED-CAR-and-LINE-FOLLOWER-ROBOT)
+A versatile robotic car that operates in two modes:
+- **Remote Control Mode**: Bluetooth-controlled navigation
+- **Autonomous Mode**: Line-following capability
+- **Technologies**: C, Embedded C, Bluetooth communication
 
-<!-- Optional: Visitor Counter -->
-<!-- Replace {USERNAME} with your GitHub username: Seif-Mohammed -->
-<!-- Uncomment if you want to add a visitor counter -->
-<!--
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Seif-Mohammed/count.svg" alt="Visitor Count" />
-</p>
--->
+### 🔧 [ATMEGA32-drivers](https://github.com/Seif-Mohammed/ATMEGA32-drivers)
+Comprehensive collection of tested AVR-based microcontroller software drivers
+- **Focus**: Low-level hardware abstraction
+- **Technologies**: C, AVR Assembly
+- **Features**: Modular, reusable driver architecture
+
+### 💰 [Detecting-fake-currency-coins](https://github.com/Seif-Mohammed/Detecting-fake-currency-coins)
+Advanced image processing system for currency authentication
+- **Functionality**: Fake coin detection and money counting in USD
+- **Technologies**: MATLAB, Image Processing Toolbox
+- **Applications**: Financial security, automated counting systems
+
+### 🚙 [Car-detection-system-from-a-noisy-frames-video](https://github.com/Seif-Mohammed/Car-detection-system-from-a-noisy-frames-video)
+Robust computer vision system for vehicle detection in challenging conditions
+- **Challenge**: Noise filtering and object detection
+- **Technologies**: MATLAB, Computer Vision
+- **Applications**: Traffic monitoring, surveillance systems
+
+## 📊 GitHub Stats
+
+![Seif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-Mohammed&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Mohammed&layout=compact&theme=radical)
+
+## 🎓 Areas of Interest
+
+- **Embedded Systems Design**: Creating efficient, real-time solutions
+- **Robotics & Automation**: Building intelligent autonomous systems
+- **Computer Vision**: Developing practical image processing applications
+- **IoT Development**: Connecting embedded devices to the digital world
+- **Signal Processing**: Working with sensors and data acquisition
+- **GUI Development**: Professional desktop applications with Python/PyQt6
+- **Aerospace Engineering**: CubeSat and satellite communication systems
+- **Electrical Engineering**: Power systems and industrial automation
+
+## 🌱 Currently Learning
+
+- Advanced ARM Cortex-M programming
+- Real-Time Operating Systems (RTOS)
+- Machine Learning for embedded systems
+- Advanced computer vision techniques
+- Space communication protocols
+- Advanced PyQt6 application development
+
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on interesting embedded systems and robotics projects. Feel free to reach out if you want to discuss:
+
+- Embedded systems development
+- Robotics projects
+- Image processing applications
+- Python GUI applications
+- CubeSat and aerospace projects
+- Electrical engineering calculations
+- Open source contributions
+
+**Contact**: seifmohamed606@gmail.com
+
+---
+
+⭐️ From [Seif-Mohammed](https://github.com/Seif-Mohammed)
+
+*"Building the future, one embedded system at a time"*
