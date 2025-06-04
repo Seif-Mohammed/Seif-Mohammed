@@ -59,14 +59,6 @@ I thrive on bridging the gap between complex business requirements and functiona
 *   **Fake Currency Authentication System:** Image processing system for coin detection and counting (MATLAB).
 *   **Vehicle Detection System:** Computer vision system for vehicle detection in noisy conditions (MATLAB).
 
-## 📊 GitHub Stats (Optional)
-
-*(You can uncomment and customize these or use other generators if you like)*
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seif-Mohammed&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-Mohammed&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## 📫 Let's Connect!
 
