@@ -2,15 +2,22 @@
 
 ## Introduction
 
-```yaml
-name: Seif Mohammed
-role: Software Developer
-focus: Odoo ERP Development, Python Applications, Embedded Systems
-interests: ["Odoo Customization", "Backend Development", "Microcontroller Programming", "Robotics", "Image Processing"]
-contact:
-  email: seifmohamed606@gmail.com
-  linkedin: https://linkedin.com/in/seifmo
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&text=Hi%2C%20I'm%20Seif%20Mohammed%20%F0%9F%91%8B&fontSize=60&fontAlignY=45&animation=fadeIn" alt="Header Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/seifmo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:seifmohamed606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+<h3 align="center">Software Developer specializing in Odoo ERP & Python Applications</h3>
+
+
 
 ## About Me
 
